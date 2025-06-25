@@ -7,8 +7,3 @@ console.log(str + x);
 
 
 console.log("aaaaa");
-
-{
-    {
-    }
-}
